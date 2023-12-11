@@ -1,59 +1,50 @@
-# this page is under conrstruction
+# What's up! It's Johan! 👋
+## Contact Me 📧
 
-# Hi there! I'm Johan!👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-johanbarreiro-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/johanbarreiro/)
+[![Email](https://img.shields.io/badge/Email-j.barreiro%40student.ie.edu-red?style=flat&logo=gmail)](mailto:j.barreiro@student.ie.edu)
 
-I'm a passionate [Your Profession] based in [Your Location]. Welcome to my GitHub profile!
+## About Me 🌱
 
-## 🚀 About Me
-
-🎓 Studying a Master's in Business Analytics and Big Data at IE Business School.
+🎓 I am a University of Minnesota alum studying a Master's in Business Analytics and Big Data at IE Business School.
 
 💼 Data analyst with expertise in ad hoc analysis and dashboard development. Passionate about transforming raw data into meaningful insights. Currently working towards a rewarding career in data science.
 
 🌟 Excited about exploring new data-driven challenges and contributing to innovative projects. Let's connect and build something amazing together!
 
+🤔 Interested in projects related to sustainability, machine learning, and music.
 
-## 🔧 Skills
+## Skills 🚀
 
-- **Programming Languages:** Python, SQL
-- **Frameworks and Libraries** pandas, numpy, ggplot2
-- **Tools & Technologies:** Oracle OBIEE, Tableau, Qualtrics, SQL Developer
+- *Languages:* \
+![Python](https://a11ybadges.com/badge?logo=python) \
+![SQL](https://a11ybadges.com/badge?logo=mysql) \
+![R](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 
-## 🌱 Currently Learning
+- *Frameworks and Librares:* \
+![pandas](https://a11ybadges.com/badge?logo=pandas)
+![OpenAI](https://a11ybadges.com/badge?logo=openai) \
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-I'm currently focused on improving my skills in Data Science and Machine Learning within Python.
+- *Tools and Technologies:* \
+![Tableau](https://a11ybadges.com/badge?logo=tableau)
+![Jupyter](https://a11ybadges.com/badge?logo=jupyter) \
+![Apache Spark](https://a11ybadges.com/badge?logo=apachespark) 
+![Oracle Business Intelligence Enterprise Edition](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) \
+![Visual Studio Code](https://a11ybadges.com/badge?logo=visualstudiocode)
+![Qualtrics](https://a11ybadges.com/badge?logo=qualtrics) \
+![Apache_NIFI](https://a11ybadges.com/badge?logo=apache)
 
-## 🔭 Currently Working On
+- *For Fun:* \
+![Ableton Live](https://a11ybadges.com/badge?logo=abletonlive)
+![Pioneer DJ](https://a11ybadges.com/badge?logo=pioneerdj) \
+![GIMP](https://a11ybadges.com/badge?logo=gimp)
+![Adobe Photoshop](https://a11ybadges.com/badge?logo=adobephotoshop) \
+![Adobe Premiere Pro](https://a11ybadges.com/badge?logo=adobepremierepro)
 
-I'm currently working on [Project/Task] to [Brief description].
-
-## 👯 Looking to Collaborate On
-
-I'm open to collaborating on projects related to [Your Interests/Field].
-
-## 🤔 Looking for Help With
-
-I'm looking for help with [Specific Challenge/Task]. If you have expertise in [Related Skills], your assistance would be highly appreciated!
-
-## 💬 Ask Me About
-
-Feel free to ask me about [Any Specific Topic/Expertise].
-
-## 📫 How to Reach Me
-
-- **LinkedIn:** ([Johan Barreiro](https://www.linkedin.com/in/johanbarreiro/))
-
-
-## 😄 Pronouns
+## Pronouns 😄
 
 He/Him/His
-
-## ⚡ Fun Fact
-
-[Share an interesting or fun fact about yourself!]
-
-## 📈 GitHub Stats
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=johanbarreiro&show_icons=true&theme=radical)](https://github.com/johanbarreiro)
 
 Thanks for stopping by! 😊 Let's connect and build something amazing together!
